@@ -1,0 +1,22 @@
+{
+	"name": "@doublejg/sudoku",
+	"version": "0.0.1",
+	"description": "Javascript Sudoku Solver/Generator",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"sudoku",
+		"solve",
+		"generate",
+		"puzzle"
+	],
+	"homepage": "https://github.com/DoubleJ-G/sudoku",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DoubleJ-G/sudoku.git"
+	},
+	"author": "Jaden Gregory",
+	"license": "MIT"
+}
